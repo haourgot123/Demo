@@ -5,6 +5,8 @@ int main()
 
 {
 	int n; cin >> n;
-	cout << "Hello" << n;
+	cout << "Hello" << endl;
+	cout << n << endl;
+	cout << n+1 << endl;
 
 }
